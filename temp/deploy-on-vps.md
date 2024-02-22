@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="93786680898"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "https://i.imgur.com/JZ6OzZC.jpeg"
       OWNER_NAME = "Suhail"
